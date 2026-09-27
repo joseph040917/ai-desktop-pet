@@ -1,0 +1,12 @@
+{
+  "name": "elaina-pet",
+  "version": "0.1.0",
+  "description": "伊蕾娜桌面宠物 - Live2D desktop pet",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^33.4.11"
+  }
+}
